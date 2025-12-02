@@ -4,6 +4,11 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+
         System.out.println("Hello Coding festivalgu");
+
+        System.out.println("Hello Coding Factory 9!!");
+        System.out.println("Hello Coding Factory 9 again!!");
+
     }
 }
