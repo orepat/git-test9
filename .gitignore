@@ -3,8 +3,9 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+GitTest9.iml
+**/*.log
 
-out/
 .idea/
 GitTest9.iml
 **/*.log
